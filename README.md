@@ -1,3 +1,3 @@
 #  **Zuri Training**
 
-### This repository contains all assignment based on the zuri training.
+### This repository contains all assignments based on the zuri training.
